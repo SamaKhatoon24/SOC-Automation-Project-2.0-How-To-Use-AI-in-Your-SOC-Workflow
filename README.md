@@ -1,6 +1,6 @@
 
 
-# SOC-Automation-Project-2.0-How-To-Use-AI-in-Your-SOC-Workflow
+# SOC-Automation-Project: How-To-Use-AI-in-Your-SOC-Workflow
 
 <img width="1045" height="484" alt="Screenshot 2025-10-04 213747" src="https://github.com/user-attachments/assets/0a3d9502-b625-4f85-8c1f-8ad2d70d5d9a" />
 
